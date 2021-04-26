@@ -18,39 +18,39 @@ Se crea la aplicación de funciones con los datos necesarios.
 
 Se configura los datos basicos.
 
-![Maquina](./img/Captura.PNG) 
+![Maquina](./images/Captura.PNG) 
 
 se configura el Hospedaje.
 
-![Maquina](./img/Captura2.PNG)
+![Maquina](./images/Captura2.PNG)
 
 Se realiza la instalacion de Azure Functions.
 
-![Maquina](./img/Captura3.PNG) 
+![Maquina](./images/Captura3.PNG) 
 
-![Maquina](./img/Captura4.PNG) 
+![Maquina](./images/Captura4.PNG) 
 
 se realiza un deploy de la aplicacion.
 
-![Maquina](./img/Captura5.PNG)
+![Maquina](./images/Captura5.PNG)
 
 Deployment exitoso.
 
-![Maquina](./img/Captura6.PNG) 
+![Maquina](./images/Captura6.PNG) 
 
 se realiza pruebas desde azure.
 
-![Maquina](./img/Captura8.PNG) 
+![Maquina](./images/Captura8.PNG) 
 
 se realiza las pruebas con postman.
 
-![Maquina](./img/Captura10.PNG) 
+![Maquina](./images/Captura10.PNG) 
 
-![Maquina](./img/Captura7.PNG) 
+![Maquina](./images/Captura7.PNG) 
 
-![Maquina](./img/Captura11.PNG) 
+![Maquina](./images/Captura11.PNG) 
 
-![Maquina](./img/Captura9.PNG) 
+![Maquina](./images/Captura9.PNG) 
 
 **Preguntas**
 
