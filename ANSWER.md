@@ -60,12 +60,15 @@ Azure Function:
 Es un servicio informático sin servidor que permite al usuario ejecutar código desencadenado por eventos sin tener que aprovisionar o administrar la infraestructura. Al ser un servicio basado en disparadores, ejecuta un script o un fragmento de código en respuesta a una variedad de eventos.
 
 2. ¿Qué es serverless?
+
 La informática sin servidor permite a los desarrolladores crear aplicaciones más rápidamente al eliminar la necesidad de administrar la infraestructura. Con las aplicaciones sin servidor , el proveedor de servicios en la nube aprovisiona, escala y administra automáticamente la infraestructura necesaria para ejecutar el código.
 
 3. ¿Qué es el runtime y que implica seleccionarlo al momento de crear el Function App?
+
 proporciona una forma de experimentar Azure Functions antes de comprometerse con la nube. El tiempo de ejecución abre nuevas opciones, como el uso de la potencia de cálculo de repuesto de las computadoras locales para ejecutar procesos por lotes durante la noche. La selección del runtime permite que los activos de código que se crean se puedan llevar a la nube cuando se realice la migración.
 
 4. ¿Por qué es necesario crear un Storage Account de la mano de un Function App?
+
 Azure Functions se basa en Azure Storage para operaciones como la administración de desencadenadores y el registro de ejecuciones de funciones.
 
 5. ¿Cuáles son los tipos de planes para un Function App?, ¿En qué se diferencias?, mencione ventajas y desventajas de cada uno de ellos.
@@ -88,7 +91,9 @@ Azure Functions se basa en Azure Storage para operaciones como la administració
 		2. Escalamiento automático.
 
 6.¿Por qué la memoization falla o no funciona de forma correcta?
+
 Ocurren problemas en la recursión con números muy grandes. sucede un desbordamiento de la pila que causa que se agote el espacio de memoria de la misma.
 
 7.¿Cómo funciona el sistema de facturación de las Function App?
+
 El plan de consumo de Azure Functions se factura en función del consumo de recursos y las ejecuciones por segundo.
